@@ -1,0 +1,35 @@
+h1{
+    font-family: 'nunito';
+}
+h2{
+    font-family: 'nunito'; 
+}
+h3{
+    font-family: 'nunito'; 
+}
+button{
+    font-family: 'nunito';
+}
+mat-card{
+    font-family: 'nunito';
+}
+
+mat-card-content{
+    font-size: 20px;
+}
+
+.flex-gap{
+    display: flex;
+     flex-direction: row; 
+     justify-content: space-around; 
+     flex-wrap: wrap;
+}
+
+.flex-gap>mat-card{
+    margin: 20px;
+}
+
+a{
+    font-family: 'nunito';
+
+}
