@@ -28,6 +28,15 @@ export class AppComponent {
       link: 'https://vaccine-slot.web.app',
       imageLink:'../assets/vaccine-slots_img.png'
     },
+    {
+      name: 'My Task App',
+      description:
+        'A task planner application to add tasks with reminders.',
+      features: 'Add tasks with detailed messages and set reminders.',
+      techList : ['ReactJs','Bootstrap','Firebase'],
+      link: 'https://task-planner-9c382.web.app',
+      imageLink:'../assets/task-planner_ss.JPG'
+    },
    
   ];
 
